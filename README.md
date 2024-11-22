@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sabankayis.github.io/Blog/](https://sabankayis.github.io/Blog/)
 
-- 💬 Ask me about **Angular,React,Bootstrap**
+- 💬 Ask me about **Angular,React,Bootstrap,Asp.Net Core**
 
 - 📫 How to reach me **sbnkys1@gmail.com**
 
